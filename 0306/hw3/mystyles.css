@@ -1,0 +1,18 @@
+body{
+	background-color: #888888;
+}
+h1{
+	font-weight:  border;
+}
+.name{
+	background-color:#72a8ff;
+	padding:20px;
+	border: solid #1c78ef;
+	margin :5px;
+}
+.id{
+	background-color:#f371ff;
+}
+.something{
+	background-color: #1cef7f;
+}
